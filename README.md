@@ -1,4 +1,4 @@
-# webscraping-beautifulsoup_pandas
+# webscraping-beautifulsoup-pandas
 
 Web scraping a fake book store page - https://books.toscrape.com/
 
